@@ -468,7 +468,7 @@ video {
   font-family: "Dana DemiBold";
 
   src: local("Dana DemiBold"),
-      url("/public/fonts/Dana/DanaFaNum-DemiBold.woff2") format("woff2");
+      url("../fonts/Dana/DanaFaNum-DemiBold.woff2") format("woff2");
 
   font-display: swap;
 }
@@ -477,7 +477,7 @@ video {
   font-family: "Morabba Light";
 
   src: local("Morabba Light"),
-      url("/public/fonts/Morabba/Morabba-Light.woff2") format("woff2");
+      url("../fonts/Morabba/Morabba-Light.woff2") format("woff2");
 
   font-display: swap;
 }
@@ -486,7 +486,7 @@ video {
   font-family: "Morabba Medium";
 
   src: local("Morabba Medium"),
-      url("/public/fonts/Morabba/Morabba-Medium.woff2") format("woff2");
+      url("../fonts/Morabba/Morabba-Medium.woff2") format("woff2");
 
   font-display: swap;
 }
@@ -495,7 +495,7 @@ video {
   font-family: "Morabba Bold";
 
   src: local("Morabba Bold"),
-      url("/public/fonts/Morabba/Morabba-Bold.woff2") format("woff2");
+      url("../fonts/Morabba/Morabba-Bold.woff2") format("woff2");
 
   font-display: swap;
 }
